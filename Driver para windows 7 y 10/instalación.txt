@@ -1,0 +1,6 @@
+2024 febrero 25
+
+primero instala el driver
+segundo instala p3200
+tercero actualizar en admin de dispositvos (no soportado 2012)
+cuarto se lecciona buscar update en esta pc ... 2020
